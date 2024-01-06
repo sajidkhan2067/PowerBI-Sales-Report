@@ -3,8 +3,8 @@ This Power BI Sales Report encompasses comprehensive insights of sales report of
 
 Check out the project dashboards:
 
-- **Green Dashboard:** ![Green Dashboard](https://github.com/sajidkhan2067/PowerBI-Sales-Report/files/13851374/Sajid.Sales.Report.Dashboard.pdf)
+- **Green Dashboard:** ![Sajid Sales Report Dashboard-1](https://github.com/sajidkhan2067/PowerBI-Sales-Report/assets/8274006/3798db5f-a061-4235-9ad4-7ac3c3b76c7c)
 
-- **Blue Dashboard:**  ![Blue Dashboard](https://github.com/sajidkhan2067/PowerBI-Sales-Report/files/13851376/Sajid.Sales.Report.Blue.Dashboard.pdf)
+- **Blue Dashboard:**  ![Sajid Sales Report Blue Dashboard-1](https://github.com/sajidkhan2067/PowerBI-Sales-Report/assets/8274006/2292bb7e-8e65-4ea1-ad47-7b5098e389b6)
 
 
