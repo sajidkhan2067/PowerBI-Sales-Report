@@ -5,5 +5,6 @@ Check out the project dashboards:
 
 - **Green Dashboard:** ![Green Dashboard](https://github.com/sajidkhan2067/PowerBI-Sales-Report/files/13851374/Sajid.Sales.Report.Dashboard.pdf)
 
-- **Blue Dashboard:** ![](https://github.com/sajidkhan2067/PowerBI-Sales-Report/files/13851376/Sajid.Sales.Report.Blue.Dashboard.pdf)
+- **Blue Dashboard:**  ![Blue Dashboard](https://github.com/sajidkhan2067/PowerBI-Sales-Report/files/13851376/Sajid.Sales.Report.Blue.Dashboard.pdf)
+
 
